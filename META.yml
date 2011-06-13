@@ -20,4 +20,4 @@ requires:
 resources:
   bugtracker: https://github.com/bluefeet/Catalyst-Model-DBIxResultSet/issues
   repository: git://github.com/bluefeet/Catalyst-Model-DBIxResultSet.git
-version: 0.01
+version: 0.02

@@ -1,6 +1,6 @@
 package Catalyst::Model::DBIxResultSet;
 BEGIN {
-  $Catalyst::Model::DBIxResultSet::VERSION = '0.01';
+  $Catalyst::Model::DBIxResultSet::VERSION = '0.02';
 }
 use Moose;
 
